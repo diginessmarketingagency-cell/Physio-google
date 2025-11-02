@@ -1,0 +1,5 @@
+{
+  "name": "PhysioTrack Pro",
+  "description": "A micro SaaS web app for physiotherapists to create, manage, and track patient exercise charts with branded downloadable PDFs and shared progress tracking.",
+  "requestFramePermissions": []
+}
